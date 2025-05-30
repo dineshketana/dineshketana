@@ -1,6 +1,6 @@
-## Hi there 👋
+<!--## Hi there 👋-->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=I'm+Dinesh+Ketana!;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=35&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=Hi+there+👋+I+am+Dinesh+Ketana!!" />
 </h1>
 
 # 💫 About Me:
