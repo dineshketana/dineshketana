@@ -3,6 +3,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=I'm+Dinesh+Ketana!;" />
 </h1>
 
+# 💫 About Me:
+🔭 Currently Exploring: Web Development Projects to enhance my practical skills.<br><br>👯 Open to Collaborations: Excited to collaborate with Full Stack Developers on innovative projects.<br><br>🤝 Seeking Guidance: Looking for mentorship and support in mastering Full Stack Development.<br><br>🌱 Learning Journey: Actively learning Full Stack Development, focusing on both front-end and back-end technologies.<br><br>💬 Tech Stack & Interests: Feel free to ask me about: HTML, CSS, JavaScript, Java, Python<br><br>📫 Let's Connect: Email: dineshketana@gmail.com
 <!--
 **dineshketana/dineshketana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
