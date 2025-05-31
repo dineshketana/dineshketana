@@ -1,27 +1,13 @@
-<!--## Hi there 👋-->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=35&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=Hi+there+👋+I+am+Dinesh+Ketana!!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=35&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=Hi+there+👋+I+am+Dinesh+Ketana!!" alt="Typing SVG" />
 </h1>
-# 💫 About Me:
-🔭 Currently Exploring: Web Development Projects to enhance my practical skills.<br><br>👯 Open to Collaborations: Excited to collaborate with Full Stack Developers on innovative projects.<br><br>🤝 Seeking Guidance: Looking for mentorship and support in mastering Full Stack Development.<br><br>🌱 Learning Journey: Actively learning Full Stack Development, focusing on both front-end and back-end technologies.<br><br>💬 Tech Stack & Interests: Feel free to ask me about: HTML, CSS, JavaScript, Java, Python<br><br>📫 Let's Connect: Email: dineshketana@gmail.com
 
+## 💫 About Me
 
-
-
-
-
-<!--
-**dineshketana/dineshketana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+- 🔭 **Currently Exploring:** Web Development projects to sharpen my practical skills.  
+- 👯 **Open to Collaborations:** Enthusiastic about teaming up with Full Stack Developers on exciting, innovative projects.  
+- 🤝 **Seeking Guidance:** Looking for mentorship to deepen my understanding of Full Stack Development.  
+- 🌱 **Learning Journey:** Currently diving into Full Stack Development — both front-end & back-end technologies.  
+- 💬 **Tech Stack & Interests:**   HTML | CSS | JavaScript | Java | Python  
+- 📫 **Let's Connect:**  
+  📧 Email: [dineshketana@gmail.com](mailto:dineshketana@gmail.com)
