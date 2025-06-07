@@ -9,5 +9,4 @@
 - 🤝 **Seeking Guidance:** Looking for mentorship to deepen my understanding of Full Stack Development.  
 - 🌱 **Learning Journey:** Currently diving into Full Stack Development — both front-end & back-end technologies.  
 - 💬 **Tech Stack & Interests:**   HTML | CSS | JavaScript | Java | Python  
-- 📫 **Let's Connect:**  
-  📧 Email: [dineshketana@gmail.com](mailto:dineshketana@gmail.com)
+- 📫 **Let's Connect:**  📧 Email: [dineshketana@gmail.com](mailto:dineshketana@gmail.com)
